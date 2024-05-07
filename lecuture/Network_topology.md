@@ -2,6 +2,7 @@
 
 ## Традиционная трехуровневая архитектура
 
+![alt text](https://github.com/Deselerrano/-design_data_center/blob/main/lecuture/1.png?raw=true)
 
 ￼
 Уровни:
