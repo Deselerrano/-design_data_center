@@ -38,12 +38,22 @@ IP адреса распределены следующим образом:
 
 - 192.168.X.X/31
 
+Для пирлинков:
+
+- 192.168..X/31
+
 Итоговая схема будет выглядеть следующим образом
 
  
 ![alt text](https://github.com/Deselerrano/-design_data_center/blob/main/pictures/edited_task_topology_1.png?raw=true)
 
-Перейдем же к настройке:
+Перейдем же к настройке!
 
+IP адресация будет следующей:
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
+pd01-sp-001: 10.1.10.1
